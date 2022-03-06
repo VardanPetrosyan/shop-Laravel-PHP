@@ -1,0 +1,6 @@
+HTTP/1.0 200 OK
+Cache-Control: no-cache, private
+Content-Type:  application/json
+Date:          Sat, 05 Sep 2020 19:40:50 GMT
+
+"D:\\OSPanel\\domains\\practica\\storage\\app\\public"
